@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Java
+*.class
+hs_err_pid*
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Windows
+Thumbs.db
+Desktop.ini
