@@ -23,6 +23,7 @@ N/A
 
 ### 7. Do you have a “Hello World” program that compiles and runs?
 Yes. The program compiles, runs and prints "Hello World" to the console.
+I am using the maven project structure.
 
 ### 8. Where is the entry point to your project? (src/main/Main.java for example)
 The entry point to the project is, src/main/java/se350project/Main.java
