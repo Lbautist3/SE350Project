@@ -10,10 +10,10 @@ No
 N/A
 
 ### 3. Do you have your GitHub account set up?
-yes 
+Yes -  Lbautist3
 
 ### 4. Do you have a public repository for your Project?
-yes
+Yes 
 
 ### 5. What is the link to your GitHub repository?
 https://github.com/Lbautist3/SE350Project
@@ -22,7 +22,7 @@ https://github.com/Lbautist3/SE350Project
 N/A
 
 ### 7. Do you have a “Hello World” program that compiles and runs?
+Yes. The program compiles, runs and prints "Hello World" to the console.
 
-
-### 8. Where is the entry point to your project? (src/main/Main.java for
-example)
+### 8. Where is the entry point to your project? (src/main/Main.java for example)
+The entry point to the project is, src/main/java/se350project/Main.java
